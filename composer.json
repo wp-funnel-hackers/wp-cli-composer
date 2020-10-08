@@ -1,0 +1,16 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        },
+        {
+            "type": "composer",
+            "url" : "https://composer.freemius.com/packages.json"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/akismet": "3.1.1",
+
+    }
+}
